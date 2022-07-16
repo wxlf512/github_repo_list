@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">github_repo_list</string>
+    <string name="app_name">GitHub List Repo</string>
+    <string name="user_hint">Имя пользователя</string>
+    <string name="search_btn">Найти</string>
 </resources>
